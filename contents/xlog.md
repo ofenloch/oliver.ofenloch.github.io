@@ -10,3 +10,8 @@ Until now (2025-04-12) I've never heard about XLog. The home page says
 
 I read a paywalled article in the German [c't] about [digital gardens](https://www.heise.de/hintergrund/Nerd-Trend-Digitaler-Garten-Die-eigene-Website-als-persoenliches-Wissensarchiv-10344169.html) and went 
 from there to [this tutorial](https://xlog.emadelsaid.com/tutorials/Create%20your%20own%20digital%20garden%20on%20Github/).
+
+
+## Installing
+
+If you have [Go](https://go.dev/) on your machine, you can simply run `go install github.com/emad-elsaid/xlog/cmd/xlog@latest` to install XLog. XLog can then be called wiht `~//go/bin/xlog`.
