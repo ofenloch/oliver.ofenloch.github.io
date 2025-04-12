@@ -68,7 +68,7 @@ jobs:
 
         run: |
 
-          ../xlog --index README.md \
+          ../xlog index=README.md \
 
           --build . \
 
