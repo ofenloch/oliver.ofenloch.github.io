@@ -67,12 +67,9 @@ jobs:
       - name: Build
 
         run: |
+          cp -pvf README.md index.md
 
-          ../xlog index=README.md \
-
-          --build . \
-
-          --sitename "@ofenloch"
+          ../xlog --build . --sitename "@ofenloch"
 
           rm *.md
 
