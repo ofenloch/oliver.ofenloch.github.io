@@ -72,7 +72,7 @@ jobs:
 
           --build . \
 
-          --sitename "user-name"
+          --sitename "@ofenloch"
 
           rm *.md
 
