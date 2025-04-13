@@ -1,5 +1,20 @@
 name: Xlog
 
+# This workflow will build the site and deploy it to GitHub Pages.
+# It is triggered on push to the master branch and can also be run manually.
+# The workflow uses the xlog tool to build the site and deploys it using GitHub Actions.
+# The workflow is set to run on the latest version of Ubuntu.
+# The workflow uses the actions/checkout action to check out the code.
+# The workflow uses the chetan/git-restore-mtime-action action to restore the timestamps of the files.
+# The workflow uses the actions/upload-pages-artifact action to upload the built site as an artifact.
+# The workflow uses the actions/deploy-pages action to deploy the site to GitHub Pages.
+# The workflow uses the actions/github-script action to run a script that sets the permissions for the pages.
+#
+# The page will be published as 
+# 
+#    https://ofenloch.github.io/oliver.ofenloch.github.io/
+#
+#
 
 on:
 
