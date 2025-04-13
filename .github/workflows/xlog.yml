@@ -69,7 +69,7 @@ jobs:
         run: |
           cp -pvf README.md index.md
 
-          ../xlog --build . --sitename "@ofenloch"
+          ../xlog --build . --sitename "@ofenloch" --github.url https://github.com/ofenloch/oliver.ofenloch.github.io/edit/master
 
           rm *.md
 
