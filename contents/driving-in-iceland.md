@@ -19,7 +19,7 @@ Pay attention to road signs.
 Always check [road.is](road.is) for road conditions and other information.
 
 
-## [Gass Stations](https://www.youtube.com/watch?v=rZL6Mbkn68Q)
+## [Gas Stations](https://www.youtube.com/watch?v=rZL6Mbkn68Q)
 
 Never use the "fill up my tank" option at a gas pump.This blocks about 300 US$ on your card. Best thing is to choose 3000 to 4000 
 
