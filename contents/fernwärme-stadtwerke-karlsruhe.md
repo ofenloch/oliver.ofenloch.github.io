@@ -37,7 +37,10 @@ In dem genannten Flyer sind folgende **Grundpreis**e tabellarisch aufgelistet:
 > Nettopreise enthalten Konzessionsabgabe in Höhe von 
 > jeweils 15 %.
 
-Meine [Abrechnung für das Jahr 2024](/contents/fernwärme-stadtwerke-karlsruhe.png) weist folgende Werte auf
+
+![Meine Fernwärmeabrechnung für das Jahr 2024](fernwärme-stadtwerke-karlsruhe.png)
+
+Meine Abrechnung für das Jahr 2024 weist folgende Werte auf
 
 |                          | Preis in Euro je kW/MWh/Monat | MWh/Monate(*) | Nettobetrag in Euro |
 | ------------------------ | ------------------------------ | ------------- | ------------------- |
