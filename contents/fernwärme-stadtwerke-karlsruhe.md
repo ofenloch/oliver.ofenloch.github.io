@@ -37,7 +37,7 @@ In dem genannten Flyer sind folgende **Grundpreis**e tabellarisch aufgelistet:
 > Nettopreise enthalten Konzessionsabgabe in Höhe von 
 > jeweils 15 %.
 
-Meine Abrechnung für das Jahr 2024 weist folgende Werte auf
+Meine [Abrechnung für das Jahr 2024](/contents/fernwärme-stadtwerke-karlsruhe.png) weist folgende Werte auf
 
 |                          | Preis in Euro je kW/MWh/Monat | MWh/Monate(*) | Nettobetrag in Euro |
 | ------------------------ | ------------------------------ | ------------- | ------------------- |
@@ -69,3 +69,4 @@ Die **Grundpreise** sind in **€/Monat**:
 Tatsächlich weist der alte Flyer ab dem 01.04.2024 einen Nettopreis für Qp 6,0 von 25,44 € auf. Für den Leistungspreis weist er einen Nettopreis von 34,47 €/kW/Jahr auf, was den 2,8725 €/kW/Monat entspricht.
 
 Leider habe ich nur die beiden Preistabellen ab 01.04.2024 und ab 01.04.2025. Falls jemand ältere Preisetabellen hat, möge er sich bitte bei mir melden.
+
