@@ -40,16 +40,16 @@ In dem genannten Flyer sind folgende **Grundpreis**e tabellarisch aufgelistet:
 
 ![Meine Fernwärmeabrechnung für das Jahr 2024](fernwärme-stadtwerke-karlsruhe.png)
 
-Meine Abrechnung für das Jahr 2024 weist folgende Werte auf
+Meine Abrechnung für das Jahr 2024 weist folgende Werte auf:
 
-|                          | Preis in Euro je kW/MWh/Monat | MWh/Monate(*) | Nettobetrag in Euro |
-| ------------------------ | ------------------------------ | ------------- | ------------------- |
+|                          | Preis in Euro je kW/MWh/Monat  | MWh/Monate(*) | Nettobetrag in Euro  |
+|:------------------------ | ------------------------------:| -------------:| -------------------:|
 | Arbeitspreis             | 129,060000                     | 110,120       | 14212,09            |
-| Arbeitspreis             | 93,120000                      | 203,240       | 18925,71            |
-| Leistungspreis 322,00 kW | 2,764167                       | 3 (*)         | 2670,19             |
-| Leistungspreis 322,00 kW | 2,872500                       | 9 (*)         | 8324,51             |
-| Grundpreis Qp 6,0        | 24,480000                      | 3 (*)         | 73,44               |
-| Grundpreis Qp 6,0        | 25,440000                      | 9 (*)         | 228,96              |
+| Arbeitspreis             |  93,120000                     | 203,240       | 18925,71            |
+| Leistungspreis 322,00 kW |   2,764167                     | 3 (*)         |  2670,19            |
+| Leistungspreis 322,00 kW |   2,872500                     | 9 (*)         |  8324,51            |
+| Grundpreis Qp 6,0        |  24,480000                     | 3 (*)         |    73,44            |
+| Grundpreis Qp 6,0        |  25,440000                     | 9 (*)         |   228,96            |
 
 Die **Arbeitspreise** sind in **€/MWh**: 
 
