@@ -53,6 +53,15 @@ Meine Abrechnung für das Jahr 2024 weist folgende Werte auf:
 | Grundpreis Qp 6,0        |  24,480000                     | 3 (*)         |    73,44            |
 | Grundpreis Qp 6,0        |  25,440000                     | 9 (*)         |   228,96            |
 
+Die Mehrwersteuer auf Fernwärme beträgt grundsätzlich 19%. Im Zuge der "Gaskrise" wurde von Ende Oktober 2022 bis einschließlich März 2024 
+für Gas und Fernwärme der ermäßigte Mehrwertsteuersatz von 7% abkassiert. Ab dem 01.04.2024 galt wieder der ursprüngliche Satz von 19%:
+
+    (14212,09€ + 2670,19€ +  73,44€) * 1,07 = 16955,72€ * 1,07 = 16955,72€ + 1186,90€ = 18142.62€
+
+    (18925,71€ + 8324,51€ + 228,96€) * 1,19 = 27479,18€ * 1,19 = 27479,18€ + 5221.04€ = 32700.22€
+
+Das stimmt mit der Abrechnung der Stadtwerke überein.
+
 Die **Arbeitspreise** sind in **€/MWh**: 
 
         129,060000 €/MWh * 110,120 MWh = 14212,0872 €
@@ -96,7 +105,7 @@ Der [Bund der Energieverbraucher](https://www.energieverbraucher.de/) erklärt, 
 
 Mein **durchschnittlicher Wärmeverbrauch** in den letzten sechs Jahren lag bei 324,20 MWh = **324200 kWh**. Das Maximum bei 462270 kWh, das Minimum bei 254910 kWh.
 
-Die vertraglich vereinbarte Grundleistung entnehmen wir dem **Leistungspreis 320,00 kW** zu 322,00 kW. Der Preis für diese Anschlussleistung liegt (ab 01.04.2025) bei **35,75 €/kW/Jahr** netto (42,54 €/kW/Jahr brutto) bzw. bei **2,97916666667 €/Kw/Monat** netto.
+Die vertraglich vereinbarte Grundleistung entnehmen wir dem **Leistungspreis 320,00 kW** zu 322,00 kW. Der Preis für diese Anschlussleistung liegt (ab 01.04.2025) bei **35,75 €/kW/Jahr** netto (42,54 €/kW/Jahr brutto, inkl 19% MwSt) bzw. bei **2,97916666667 €/Kw/Monat** netto.
 
 Mit dem Durchschnittsverbrauch berechnen wir die **Vollbenutzungsstunden** zu 
 
@@ -129,7 +138,7 @@ eine Reduktion der Anschlussleistung auf 255,83 kW möglich, um auf die 1200 Vol
 
     (307000 kWh / 1200 h) * 1,10 = 255,83 kW
 
-Man könnte also - um auf der sicheren Seite zu bleiben - die Anschlussleistung auf die weiter oben berechneten 270 kW reduzieren. DAmit ergäbe sich dann eine jährliche Ersparnis von 2151,30 €:
+Man könnte also - um auf der sicheren Seite zu bleiben - die Anschlussleistung auf die weiter oben berechneten 270 kW reduzieren. Damit ergäbe sich dann eine jährliche Ersparnis von 2151,30 €:
 
     270 kW * 42,54 €/kW/Jahr = 11461,50 €/Jahr (brutto, inkl. MwSt)
 
