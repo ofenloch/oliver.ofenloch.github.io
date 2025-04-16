@@ -35,3 +35,5 @@ All F roads require 4WD.
 Roads and Wind [https://vegasja.vegagerdin.is](https://vegasja.vegagerdin.is)
 
 Wattiefen [https://www.suv-cars.de/beste-suv/wattiefe.html](https://www.suv-cars.de/beste-suv/wattiefe.html)
+
+Tipps zum Durchqueren von Furten bei [Chris](https://www.25u.de/) : https://www.25u.de/tipps-island-furten-4x4-offroad-pisten-in-island-richtig-furten-und-fahren-fuer-anfaenger-und-offroad-einsteiger/
