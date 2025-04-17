@@ -40,7 +40,7 @@ In dem genannten Flyer sind folgende **Grundpreis**e tabellarisch aufgelistet:
 > jeweils 15 %.
 
 
-![Meine Fernwärmeabrechnung für das Jahr 2024](fernwärme-stadtwerke-karlsruhe.png)
+![Meine Fernwärmeabrechnung für das Jahr 2024](fernwärme-abrechnung-stadtwerke-karlsruhe.png)
 
 Meine Abrechnung für das Jahr 2024 weist folgende Werte auf:
 
