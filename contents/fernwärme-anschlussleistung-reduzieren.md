@@ -44,7 +44,9 @@ Bleiben wir bei den 320 kW, kommen wir auf 13612,80 €/Jahr:
 
     320 kW * 42,54 €/kW/Jahr = 13612,80 €/Jahr (brutto, inkl. MwSt)
 
-**Die jährliche Ersparnis bei einer Reduktion der vertraglich vereinbarten Leistung auf 300 kW läge also bei 877,8 €.**
+<b><span style="color:red;">
+Die jährliche Ersparnis bei einer Reduktion der vertraglich vereinbarten Leistung auf 300 kW läge also bei 877,8 €.
+</span></b>
 
 ![Fernwärmeverbrauch der letzten sechs Jahre](fernwärme-verbrauch.png)
 
@@ -54,10 +56,14 @@ eine Reduktion der Anschlussleistung auf 255,83 kW möglich, um auf die 1200 Vol
 
     (307000 kWh / 1200 h) * 1,10 = 255,83 kW
 
+<b><span style="color:red;">
 Man könnte also - um auf der sicheren Seite zu bleiben - die Anschlussleistung auf die weiter oben berechneten 270 kW reduzieren. Damit ergäbe sich dann eine jährliche Ersparnis von 2151,30 €:
+</span></b>
 
     270 kW * 42,54 €/kW/Jahr = 11461,50 €/Jahr (brutto, inkl. MwSt)
 
     13612,80 €/Jahr - 11461,50 €/Jahr = 2151,30 €/Jahr
 
-**Dazu sollte man aber unbedingt die Meinung eines echten Experten einholen. Ich weiß nicht, welche negativen Auswirkungen eine zu klein gewählte Anschlussleistung haben kann.**
+<b><span style="color:red;">
+Dazu sollte man aber unbedingt die Meinung eines echten Experten einholen. Ich weiß nicht, welche negativen Auswirkungen eine zu klein gewählte Anschlussleistung haben kann.
+</span></b>
